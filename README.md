@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/SwamySaxena/SwamySaxena/Screenshot_1.jpg)
+![SWAMY SAXENA](https://raw.githubusercontent.com/SwamySaxena/SwamySaxena/main/Screenshot_1.jpg)
 ### Hi there 👋
 
 <!--
